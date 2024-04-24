@@ -23,3 +23,11 @@
     width: 100px;
     height: 24px;
 }
+.hearder-soc-item{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 121%;
+    letter-spacing: -0.03em;
+    color: #fafafa;
+}
